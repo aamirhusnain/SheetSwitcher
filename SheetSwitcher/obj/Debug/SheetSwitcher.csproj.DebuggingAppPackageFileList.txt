@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\SheetSwitcherManifest.xml
+D:\Project\SheetSwitcher\SheetSwitcher\bin\Debug\SheetSwitcher.debugapp

@@ -1,0 +1,2 @@
+D:\Project\SheetSwitcher\SheetSwitcher\obj\Debug\SheetSwitcher.csproj.AssemblyReference.cache
+D:\Project\SheetSwitcher\SheetSwitcher\obj\Debug\SheetSwitcher.csproj.CoreCompileInputs.cache
